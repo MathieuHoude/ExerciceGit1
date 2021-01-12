@@ -1,1 +1,3 @@
 Hello World --MH
+Hellooooo Woooorld ! --LS
+linux terminal is the CLI used
